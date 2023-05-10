@@ -2,7 +2,7 @@
 My Discord: Nuril#6116
 
 <a href="#">
-<a href="#">My Website: https://miyuli.vercel.app/</a>
+<span href="#">My Website: https://miyuli.vercel.app/</span>
 
 <a href="#">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l-Nuril-l&repo=Voice-Messages-Plugin-BetterDiscord&bg_color=00000000&border_radius=6px&border_color=30363d)](https://github.com/l-Nuril-l/miyuli)</a>
 </a>
