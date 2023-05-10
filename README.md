@@ -3,7 +3,7 @@ My Discord: Nuril#6116
 
 My Website: https://miyuli.vercel.app/
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l-Nuril-l&repo=miyuli)](https://github.com/l-Nuril-l/miyuli)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l-Nuril-l&repo=l-Nuril-l)](https://github.com/l-Nuril-l/miyuli)
 
 ## ⚡ TechStack
 
