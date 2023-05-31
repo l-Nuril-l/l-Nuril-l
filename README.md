@@ -1,4 +1,4 @@
-My Discord: <a href="https://discord.gg/dQJNqcY">Nuril#6116</a>  
+My Discord: <a href="https://discord.gg/dQJNqcY">Nuril#2033</a>  
 My Website: <a href="https://miyuli.vercel.app">miyuli.vercel.app</a>
 
 ## ⚡ TechStack
