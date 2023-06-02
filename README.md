@@ -49,5 +49,5 @@ VCS:          
 </a>
 
 <a href="#" style="margin-bottom:15px">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-Nuril-l&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-Nuril-l&exclude_repo=unity&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
 </a>
