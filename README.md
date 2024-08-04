@@ -1,7 +1,7 @@
 My Discord: <a href="https://discord.gg/dQJNqcY">nuril</a>  
 My Website: <a href="https://miyuli.vercel.app">miyuli.vercel.app</a>
 
-Private: MIYULI - [Frontend](https://github.com/l-Nuril-l/miyuli) [Backend](https://github.com/l-Nuril-l/miyuli)
+Private: MIYULI - [Frontend](https://github.com/l-Nuril-l/miyuli) [Backend](https://github.com/l-Nuril-l/Miyuli_Backend)
 
 ## ⚡ TechStack
 
