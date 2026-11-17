@@ -3,8 +3,8 @@
 
 <table>
   <tr>
-    <th align="left">🌐 PUBLIC CONTACTS & SOCIAL LINKS</th>
-    <th align="left">🔒 PRIVATE NAVIGATION</th>
+    <th align="left">Contacts & Links</th>
+    <th align="left">Navigation</th>
   </tr>
   <tr>
     <td valign="top">
@@ -17,12 +17,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
-## ⚡ TechStack
 
 <table>
   <tr>
